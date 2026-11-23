@@ -1,6 +1,6 @@
 # NewsNeutralizer
 
-**https://samuelling.github.io/NewsNeutralizer/**
+**https://linglab.org/newsneutralizer/**
 
 Paste a news site's URL. Claude reads every headline on the front page and then:
 
